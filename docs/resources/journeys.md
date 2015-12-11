@@ -23,6 +23,7 @@ Met de `journeys`-resource kun je een reis plannen.
 | **interchangeTime** | Bevat `standard`. |
 | **after** | Bevat `5`. |
 | **to** | Bevat het `location id` van de bestemming. |
+| **realtime** | `boolean` to receive real-time info about delays, cancelations and whatnot |
 
 ## Response
 
