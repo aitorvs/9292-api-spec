@@ -19,7 +19,7 @@ Met de `journeys`-resource kun je een reis plannen.
 | **lang** | Bevat "nl-NL" in alle gevallen. Zelfs als de telefoon eigenlijk op Engels is ingesteld. |
 | **from** | Bevat het `location id` van het vertrekpunt. |
 | **dateTime** | Bevat de vertrek/aankomst-datum (incl. tijd) in het formaat: `yyyy-MM-ddTHHmm`. |
-| **searchType** | Bevat een `searchType` (zie `types.md`) die aangeeft of `dateTime` een vertrek- of een aankomst-datum bevat. |
+| **searchType** | Bevat een `searchType` (zie `objects.md`) die aangeeft of `dateTime` een vertrek- of een aankomst-datum bevat. |
 | **interchangeTime** | Bevat `standard`. |
 | **after** | Bevat `5`. |
 | **to** | Bevat het `location id` van de bestemming. |
